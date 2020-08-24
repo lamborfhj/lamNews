@@ -49,5 +49,8 @@
       "prettier --single-quote --write",
       "git add"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
   }
 }
